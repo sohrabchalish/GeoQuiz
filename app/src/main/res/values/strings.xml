@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="wrong_toast">Wrong</string>
+    <string name="action_settings">Settings</string>
+    <string name="next_button">next</string>
+    <string name="question_tehran">آیا تهران پایتخت ایران است ؟</string>
+    <string name="question_esfahan">آیا گز سوغات اصفهان است ؟ </string>
+    <string name="question_mashhad">آیا حرم امام حسین در مشهد است ؟ </string>
+    <string name="question_kermanshah">آیا کرمانشاه از شهر های مرزی ایران است ؟</string>
+    <string name="question_sari">آیا ساری در جنوب کشور واقع شده است ؟</string>
+    <string name="prev_button">prev</string>
+    <string name="answerButton">Show Answer</string>
+    <string name="cheatButton">Cheat!</string>
+    <string name="warningToast">Are you sure you wanna do this ?</string>
+    <string name="judgementToast">cheating is not goood ! </string>
+    <string name="title_activity_cheat">Cheat</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>

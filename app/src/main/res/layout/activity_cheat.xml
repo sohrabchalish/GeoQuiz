@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:gravity="center"
+                tools:context="android.bignerdranch.com.geoquiz.CheatActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/warningToast"
+        android:padding="24dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/AnswerTextView"
+        android:padding="24dp"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/answerButton"
+        android:id="@+id/ShowAnswerButton"
+
+        />
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
